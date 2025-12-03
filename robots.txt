@@ -1,0 +1,15 @@
+# robots.txt for muna.com.tr
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://muna.com.tr/sitemap.xml
+
+# Disallow specific paths if needed (currently allowing all)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Crawl-delay (optional)
+# Crawl-delay: 1
+
